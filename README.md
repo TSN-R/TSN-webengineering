@@ -49,3 +49,9 @@ Choix nouveau Leader
 Downloading Web Page : Anso/Nicolas Drawing to The Screen : Mathys/Tom Formating Text : Abou-Bakr/Felix Constructing a Document Tree : Cédric/Sacha Laying Out Pages : ? Applying User Styles : Soulaïman/Andrew Handing Buttons and Links : Brayton/Remi
 
 Prochaine séance : Continuer le code
+
+Séance 6: Leader anso : aucun contenu.
+
+Séance 7 : Nicolas 
+
+Création d'un nouveau dépôt et modification des rêgles de fonctionnement. 
