@@ -55,3 +55,9 @@ Séance 6: Leader anso : aucun contenu.
 Séance 7 : Nicolas 
 
 Création d'un nouveau dépôt et modification des rêgles de fonctionnement. 
+donner les codes au prochain
+
+Prochaine séance leader Brayton
+Séance 8 : leader Brayton
+
+
