@@ -55,7 +55,9 @@ Séance 6: Leader anso : aucun contenu.
 Séance 7 : Nicolas 
 
 Création d'un nouveau dépôt et modification des rêgles de fonctionnement. 
-donner les codes au prochain
+règles de fonctionnement : 
+le leader donnera les identifiants et les mots de passe a chaquye séance au prochain leader. 
+Le nouveau devra changer les mots de passe pour que seul lui aura accès au compte.
 
 Prochaine séance leader Brayton
 Séance 8 : leader Brayton
