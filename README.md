@@ -59,7 +59,26 @@ règles de fonctionnement :
 le leader donnera les identifiants et les mots de passe a chaquye séance au prochain leader. 
 Le nouveau devra changer les mots de passe pour que seul lui aura accès au compte.
 
-Prochaine séance leader Brayton
 Séance 8 : leader Brayton
+
+Changement du mot de passe.
+Partage du code de Mathys et Tom sur le github.
+Poursuite du script pour les autres groupes.
+
+Séance 9 : Rémi
+
+Changement du mot de passe.
+Poursuite du script pour les autres groupes et avancement majeur plus mise au clair concernant le premier chapitre de Nicolas et Anso.
+
+Séance 10 : Andrew
+
+Changement du mot de passe.
+Mise à jour et réorganisation du Github.
+Fonctionnement du script/chapitre 1 à vérifier (Nicolas et Anso).
+
+Prochain leader Cédric.
+
+
+
 
 
